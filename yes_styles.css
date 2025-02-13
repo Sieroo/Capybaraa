@@ -11,6 +11,6 @@ html, body {
 }
 
 body {
-    background: url("Valentines.png") no-repeat center center fixed;
+    background: url("./Valentines.png") no-repeat center center fixed;
     background-size: cover;
 }
